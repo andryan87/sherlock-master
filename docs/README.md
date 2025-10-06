@@ -135,7 +135,6 @@ Thank you to everyone who has contributed to Sherlock! ❤️
 ## License
 
 MIT © Sherlock Project<br/>
-Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
 
 <!-- Reference Links -->
 
